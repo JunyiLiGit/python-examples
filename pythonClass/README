@@ -1,0 +1,7 @@
+The following is a simple example of a class in Python.  This class will print a message (greet) and allow for the message to be changed (set)
+
+To run:
+
+chmod +x main.py
+
+./main.py
